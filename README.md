@@ -8,4 +8,4 @@ Collecting demographic information about 10 bacterial species in belly buttons a
 - Gauge Chart
 
 ## Summary
-![BubbleChart](./Images/BubbleChart.png)
+![plotlydiploy](./Images/BubbleChart.png)
